@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Biticker</string>
+    <string name="app_logo">app_logo</string>
+    <string name="open_price">open_price</string>
+    <string name="default_price">2613.34</string>
+    <string name="no_text">no_text</string>
+    <string name="symbol_placeholder">*</string>
+
+    <string-array name="currency_array">
+        <item>AUD</item>
+        <item>BRL</item>
+        <item>CAD</item>
+        <item>CNY</item>
+        <item>EUR</item>
+        <item>GBP</item>
+        <item>HKD</item>
+        <item>JPY</item>
+        <item>PLN</item>
+        <item>RUB</item>
+        <item>SEK</item>
+        <item>USD</item>
+        <item>ZAR</item>
+    </string-array>
+</resources>

@@ -31,8 +31,6 @@ public class MainActivity extends AppCompatActivity {
 
         mTextView = findViewById(R.id.conversion);
 
-        String[] symbols = {"A$", "R$","C$"};
-
         mSpinner = findViewById(R.id.spinner);
         ArrayAdapter<CharSequence> adapter = ArrayAdapter.createFromResource(this,
                 R.array.currency_array,R.layout.spinner_item);
